@@ -18,7 +18,7 @@ async def _whisper(_, inline_query):
         mm = [
             InlineQueryResultArticle(
                 title="💌 ᴡʜɪsᴘᴇʀ",
-                description=f"@{BOT_USERNAME} @    username your message",
+                description=f"@{BOT_USERNAME} @username your message",
                 input_message_content=InputTextMessageContent(f"💌 ᴜsᴀɢᴇ ➠ \n\n@{BOT_USERNAME} @username your message"),
                 thumb_url="https://graph.org/file/ef82f289043a4fa74f8ff.jpg",
                 reply_markup=switch_btn
