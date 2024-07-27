@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", None)
 OWNER_USERNAME = getenv("OWNER_USERNAME", "roy_editx")
 
 #❖  Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME", "NYKAAXBOT")
+BOT_USERNAME = getenv("BOT_USERNAME", "KillerMusicBot")
 
 #❖  Don't Add style font 
 BOT_NAME = getenv("BOT_NAME", "NYKAA MUSIC")
