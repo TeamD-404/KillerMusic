@@ -8,7 +8,6 @@ from AnonXMusic import app
 
 ABHI = [
 "https://graph.org/file/7b053a55193351974f7f1.jpg",
-"https://graph.org/file/8386a5aa07dddcf5bb185.jpg,
 ]
 
 NYKAA = [
