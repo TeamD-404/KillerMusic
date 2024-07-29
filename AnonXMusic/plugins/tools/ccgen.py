@@ -34,7 +34,7 @@ async def gen_cc(client, message):
 `{cards[6]}`\n`{cards[7]}`\n`{cards[8]}`
 `{cards[9]}`
 
-❖ ᴄᴄ ɢᴇɴ ʙʏ ➥ ๛ɴ ʏ ᴋ ᴀ ᴀ ࿐""" , reply_markup=InlineKeyboardMarkup(EVAA),
+❖ ᴄᴄ ɢᴇɴ ʙʏ ➥ Kɪʟʟᴇʀ Mᴜsɪᴄ""" , reply_markup=InlineKeyboardMarkup(EVAA),
         )
     except Exception as e:
         return await aux.edit(f"✽ ᴇʀʀᴏʀ ➠ {e}")
