@@ -30,6 +30,6 @@ async def ncosplay(_,msg):
     else:
        ncosplay = requests.get("https://waifu-api.vercel.app/items/1").json()
 
-       await msg.reply_photo(ncosplay, caption=f"❖ ᴄᴏsᴘʟᴀʏ ʙʏ ➥ ⎯꯭‌🖇꯭𓆩꯭꯭𝐊𝐈𝐋𝐋𝐄𝐑 ࿔꯭ ֺ ꯭𝐌𝐔𝐒𝐈𝐂𓆪꯭ִֶָ⎯꯭‌ 𓆩💗𓆪𓈒 ", reply_markup=InlineKeyboardMarkup(NYKAA),)
+       await msg.reply_photo(ncosplay, caption=f"❖ ᴄᴏsᴘʟᴀʏ ʙʏ ➥ Kɪʟʟᴇʀ Mᴜsɪᴄ𓈒 ", reply_markup=InlineKeyboardMarkup(NYKAA),)
 
 
