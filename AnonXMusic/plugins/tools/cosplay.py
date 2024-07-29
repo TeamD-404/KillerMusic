@@ -14,7 +14,7 @@ NYKAA = [
 @app.on_message(filters.command("cosplay"))
 async def cosplay(_,msg):
     img = requests.get("https://waifu-api.vercel.app").json()
-    await msg.reply_photo(img, caption=f"❖ ᴄᴏsᴘʟᴀʏ ʙʏ ➥ ⎯꯭‌🖇꯭𓆩꯭꯭𝐊𝐈𝐋𝐋𝐄𝐑 ࿔꯭ ֺ ꯭𝐌𝐔𝐒𝐈𝐂𓆪꯭ִֶָ⎯꯭‌ 𓆩💗𓆪𓈒 ", reply_markup=InlineKeyboardMarkup(NYKAA),)
+    await msg.reply_photo(img, caption=f"❖ ᴄᴏsᴘʟᴀʏ ʙʏ ➥ Kɪʟʟᴇʀ Mᴜsɪᴄ ", reply_markup=InlineKeyboardMarkup(NYKAA),)
 
 
 
