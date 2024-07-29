@@ -52,7 +52,7 @@ async def instatus(app, message):
 ● ᴘʀᴇᴍɪᴜᴍ ᴜsᴇʀs ➥ {premium_acc} 
 ● ᴛɪᴍᴇ ᴛᴀᴋᴇɴ ➥ {timelog} 
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ⎯꯭‌🖇꯭𓆩꯭꯭𝐊𝐈𝐋𝐋𝐄𝐑 ࿔꯭ ֺ ꯭𝐌𝐔𝐒𝐈𝐂𓆪꯭ִֶָ⎯꯭‌ 𓆩💗𓆪𓈒   **""", reply_markup=InlineKeyboardMarkup(EVAA),)
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ Kɪʟʟᴇʀ Mᴜsɪᴄ **""", reply_markup=InlineKeyboardMarkup(EVAA),)
     else:
         sent_message = await message.reply_text("✦ ONLY ADMINS CAN USE THIS !")
         await sleep(5)
