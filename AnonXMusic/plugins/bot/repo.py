@@ -13,8 +13,8 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [
-          InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/LOCO-PILOT/MUSIC")
+          InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/itzAsuraa"),
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/itzAsuraa/TanuMusic")
           ],
     ]
     
