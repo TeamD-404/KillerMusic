@@ -4,7 +4,7 @@ from AnonXMusic import app
 from config import BOT_USERNAME
 
 start_txt = """
-❖ ʜᴇʏ , ᴛʜᴇʀᴇ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ  ♥︎\n\n● ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴀɴᴜ, ʙᴏᴛ ʀᴇᴘᴏ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴄᴏʟʟᴇᴄᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ᴛ ᴀ ɴ ᴜ♡゙ ᴍ ᴜ s ɪ ᴄ"""
+❖ ʜᴇʏ , ᴛʜᴇʀᴇ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ  ♥︎\n\n● ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴀᴍᴀɴ, ʙᴏᴛ ʀᴇᴘᴏ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ᴄᴏʟʟᴇᴄᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ᴀ ᴍ ᴀ ɴ♡゙ ᴍ ᴜ s ɪ ᴄ"""
 
 
 
@@ -14,7 +14,7 @@ async def start(_, msg):
     buttons = [
         [
           InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/itzAsuraa"),
-          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/itzAsuraa/TanuMusic")
+          InlineKeyboardButton("ʀᴇᴘᴏ", url="https://github.com/itzAsuraa/AmanMusic")
           ],
     ]
     
