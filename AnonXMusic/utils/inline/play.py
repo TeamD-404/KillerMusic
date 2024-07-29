@@ -67,16 +67,16 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
 
-                text="ᴜᴘᴅᴀᴛᴇ",
+                text="ᴏᴡɴᴇʀ",
 
                 url=f"t.me/{OWNER_USERNAME}",
 
             ),
             InlineKeyboardButton(
 
-                text="sᴜᴘᴘᴏʀᴛ",
+                text="ᴅᴇᴠᴇʟᴏᴘᴇʀ",
 
-                url=f"{SUPPORT_CHAT}",
+                url=f"t.me/itzAsuraa",
 
             ),
         ],
