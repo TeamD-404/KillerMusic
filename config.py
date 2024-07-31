@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "20851717"))
 API_HASH = getenv("API_HASH", "0217fe5cd94ff3f4d4555b1551670144")
 
 #❖ Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME", None)
+OWNER_USERNAME = getenv("OWNER_USERNAME", "shaeep43")
 
 #❖  Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME", "KillerMusicBot")
@@ -34,7 +34,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600000))
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002100219353"))
 
 #❖ Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6454209118"))
+OWNER_ID = int(getenv("OWNER_ID", "6045293810"))
 
 #❖  Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
