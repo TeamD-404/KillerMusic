@@ -5,6 +5,7 @@ beautifulsoup4
 dnspython
 blackpink
 pycountry==24.6.1
+pycountry
 ffmpeg-python
 gitpython
 hachoir
